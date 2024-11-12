@@ -2,8 +2,17 @@
   "name": "windwaker",
   "displayName": "Windwaker",
   "publisher": "endg4me",
+  "pricing": "Free",
+  "author": {
+    "name": "Timofey",
+    "email": "business@endg4.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Endg4meZer0/Windwaker-VSCode-Theme.git"
+  },
   "description": "That kind of colors that get you like the wind with its freshness in the darkest nights. ",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -18,5 +27,6 @@
         "path": "./themes/windwaker-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "./assets/logo.png"
 }
