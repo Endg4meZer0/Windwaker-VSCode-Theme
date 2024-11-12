@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "windwaker",
+        "label": "Windwaker",
         "uiTheme": "vs-dark",
         "path": "./themes/windwaker-color-theme.json"
       }
