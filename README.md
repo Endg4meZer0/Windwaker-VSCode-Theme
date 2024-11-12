@@ -3,7 +3,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 25%;"
-    src="assets/logo.png" 
+    src="assets/logo-transparent.png" 
     alt="Our logo">
 </img>
 <h1 style="text-align: center">Windwaker</h1>

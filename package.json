@@ -12,7 +12,7 @@
     "url": "https://github.com/Endg4meZer0/Windwaker-VSCode-Theme.git"
   },
   "description": "That kind of colors that get you like the wind with its freshness in the darkest nights. ",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -24,9 +24,14 @@
       {
         "label": "Windwaker",
         "uiTheme": "vs-dark",
+        "path": "./themes/windwaker-nobar-color-theme.json"
+      },
+      {
+        "label": "Windwaker (accent colored status bar)",
+        "uiTheme": "vs-dark",
         "path": "./themes/windwaker-color-theme.json"
       }
     ]
   },
-  "icon": "./assets/logo.png"
+  "icon": "./assets/logo-transparent.png"
 }
