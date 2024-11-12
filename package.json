@@ -1,0 +1,22 @@
+{
+  "name": "windwaker",
+  "displayName": "Windwaker",
+  "publisher": "endg4me",
+  "description": "That kind of colors that get you like the wind with its freshness in the darkest nights. ",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "windwaker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/windwaker-color-theme.json"
+      }
+    ]
+  }
+}
